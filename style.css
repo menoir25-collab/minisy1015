@@ -1,0 +1,55 @@
+body {
+    background-color: #f7f9fb;
+}
+h1 {
+    color: #0b6fb8;
+}
+body {
+color: #1f2e3a;
+font-family: sans-serif;
+}
+*{
+    box-sizing: border-box;
+    margin: 100;
+    margin: 0;
+    padding: 10;
+}
+body { background-color: lightblue;
+    color: black;
+    font-family: sans-serif;
+    line-height: 1.6;
+    padding: 24px;
+}
+  
+section {
+    margin: 0 0 40px 0;
+    }
+
+
+
+h1 {
+    color: #0b6fb8
+}
+#comtactm {
+    border-top: 2px;
+    padding-top: 24px;
+}
+
+.lead { 
+    font-size: 18px;
+
+color: darkgray;}
+form label {
+    display: block;
+    margin-top: 12px;
+    color: darkgray;
+}
+
+form input,
+formtext area {
+    display: block;
+    width: 100%;
+    padding: 8px;
+border:1px ;
+border-radius: 4px;
+}
